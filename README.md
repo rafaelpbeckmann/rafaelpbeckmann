@@ -2,7 +2,7 @@
 
 ### Desenvolvedor em formação | Estudante de Engenharia | Entusiasta de RPGs
 
-Seja bem-vindo ao meu perfil! Pode me chamar apenas de **Beckmann**. Atualmente, estou mergulhando no universo da tecnologia, estudando novas linguagens e transformando café em código.
+Seja bem-vindo ao meu perfil! Pode me chamar apenas de **Beckmann**. Atualmente, estou iniciando em engenharia da computação no CESUPA, intusiasta de tecnologia e aspirante a dev.
 
 ---
 
