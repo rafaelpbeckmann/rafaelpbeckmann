@@ -36,12 +36,9 @@ Atualmente já atuo na área de computação, desenvolvendo **projetos web com i
 ## Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelpbeckmann&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelpbeckmann&theme=dark&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
-
-> Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub para os gráficos funcionarem.
-
 ---
 
 <p align="center"><i>Em constante aprendizado, sempre em busca de novos desafios.</i></p>
